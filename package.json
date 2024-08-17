@@ -5,7 +5,10 @@
   "repository": "git@github.com:DialBird/zenn.git",
   "author": "Keisuke Taniguchi <rememberthatk@icloud.com>",
   "license": "MIT",
+  "scripts": {
+    "add": "zenn new:article"
+  },
   "dependencies": {
-    "zenn-cli": "^0.1.98"
+    "zenn-cli": "^0.1.154"
   }
 }
